@@ -2,6 +2,11 @@
 
 [![Blog Platform on Next.js 14](https://fast.image.delivery/qmeufcw.jpg "Blog Platform on Next.js 14")](/)
 
+[![Blog Platform on Next.js 14](https://fast.image.delivery/hjpuxqp.jpg "Blog Platform on Next.js 14")](/)
+
+[![Blog Platform on Next.js 14](https://fast.image.delivery/qzwnipl.jpg "Blog Platform on Next.js 14")](/)
+
+
 **Featured Links**
 
 This is a [Next.js](https://nextjs.org/docs/getting-started/installation), [Tailwind CSS](https://tailwindcss.com/), [Shadcn](https://ui.shadcn.com/) blogging template. This version is using Next.js 14 App Router with [React Server Components](https://nextjs.org/docs/getting-started/react-essentials#server-components) and uses [Wisp](https://wisp.blog/?utm_source=github&utm_medium=web&utm_campaign=nextjs-blog-cms-wisp) for publishing blog posts.
@@ -57,7 +62,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Getting Help
-
-Full documentation on how to get started on wisp as well as this starter kit is available on [wisp's documentation site](https://www.wisp.blog/docs/next-js-blog-starter-kit/overview?utm_source=github&utm_medium=web&utm_campaign=nextjs-blog-cms-wisp)
